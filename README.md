@@ -1,2 +1,2 @@
 # Notes
-this contains notes
+this repo contains notes
