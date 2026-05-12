@@ -1,9 +1,5 @@
 # Notes
-fg/lm
-LKADNC ;
-lcm 
-klxcn 
-dc ;kn
+
 
 
 
