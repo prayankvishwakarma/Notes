@@ -1,4 +1,8 @@
 # Notes
+lkS
+IknDS
+ Soik
+
 
 
 
