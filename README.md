@@ -2,6 +2,4 @@
 
 
 
-
-
 this repo contains notes
