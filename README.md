@@ -6,6 +6,8 @@
 this repo contains notes
 
 Open/Closed Principle: Software entities should be open for extension but closed for modification.
+
+
 Use interfaces/abstractions so new behavior can be added without repeatedly changing existing code. Strategy and Factory patterns often help.
 
 Liskov Substitution Principle: A subtype should be usable wherever its parent type is expected without breaking correctness.
