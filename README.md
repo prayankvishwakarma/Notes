@@ -2,7 +2,8 @@
 
 
 
-
+nfnd
+mdmdmmr
 
 this repo contains notes
 
