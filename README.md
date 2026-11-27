@@ -4,6 +4,11 @@
 
 nfnd
 mdmdmmr
+djkd
+dmdd
+
+d
+d
 
 this repo contains notes
 
