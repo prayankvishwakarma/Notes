@@ -2,16 +2,7 @@
 
 
 
-nfnd
-mdmdmmr
-djkddjnd
-fmm
-f
-fffmf
-dmdd
 
-d
-d
 
 this repo contains notes
 
